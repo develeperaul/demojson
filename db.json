@@ -13,6 +13,34 @@
     "invest_budg": "2,38",
     "invest_budg_dinamic": "+82,14",
     "dasbord_url": "https://cur.bashkortostan.ru/?menukey=4069&type=DASHBOARD"
-    }
+    },
+
+    "02_soc_econom": {
+        "invest_volume": "81,2",
+        "color": "red",
+        "date": "I квартал 2021 г",
+        "vrp": "101,9",
+        "prom_proizv": "101,5",
+        "rastenie": "92,1",
+        "animals": "100,3",
+        "mp": "104,9",
+        "sp": "130,17",
+        "dasbord_url": "https://cur.bashkortostan.ru/?menukey=4071&type=DASHBOARD"
+    },
+    "03_index_p_p": {
+    "index_prom_proizv": "101,4",
+    "color": "green",
+    "date": "Март 2021 г.",
+    "index_prom_proizv_appg": "101,4",
+    "index_fiz_appg": "99,3",
+    "index_fiz_appg_rf": "33",
+    "index_fiz_appg_pfo": "3",
+    "index_fiz_vd": "116,8",
+    "index_fiz_vd_rf": "23",
+    "index_fiz_vd_pfo": "4",
+    "index_stroit": "111,73",
+    "dasbord_url": "https://cur.bashkortostan.ru/?menukey=4077&type=DASHBOARD"
+}
+
     
 }
