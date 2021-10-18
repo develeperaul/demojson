@@ -1,5 +1,5 @@
 {
-
+    "01_invest_osn_kap": {
 
 
     "inves_v_osn_kap": "47,69",
@@ -13,4 +13,5 @@
     "invest_budg": "2,38",
     "invest_budg_dinamic": "+82,14",
     "dasbord_url": "https://cur.bashkortostan.ru/?menukey=4069&type=DASHBOARD"
+    }
 }
