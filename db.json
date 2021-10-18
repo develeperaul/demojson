@@ -3,16 +3,7 @@
 {
 
     "inves_v_osn_kap": "47,69",
-    "color": "green",
-    "date": "I квартал 2021 г.",
-    "dinamic": "+81,2",
-    "invest_krupn": "25,67",
-    "invest_krupn_dinamic": "+81,9",
-    "invest_mal": "19,64",
-    "invest_mal_dinamic": "+80,13",
-    "invest_budg": "2,38",
-    "invest_budg_dinamic": "+82,14",
-    "dasbord_url": "https://cur.bashkortostan.ru/?menukey=4069&type=DASHBOARD"
+    "color": "green"
 }
     ]
 }
